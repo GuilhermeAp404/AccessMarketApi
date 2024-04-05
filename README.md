@@ -1,6 +1,6 @@
 # Como iniciar o projeto
 
-Tenha o node instalado, caso você não tenha clique no link abaixo:
+Tenha o node instalado, caso você não tenha clique no link:
 [Download Node.js](https://nodejs.org/en/download)
 
 Com o node instalado basta executar esses dois comando em ordem:
